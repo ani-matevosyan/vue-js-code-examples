@@ -1,0 +1,147 @@
+[
+  {
+    "campaign_id": 1,
+    "campaign_name": "Core - FB",
+    "adset_id": null,
+    "adset_name": null,
+    "ad_id": null,
+    "ad_name": null,
+    "cost": 3632,
+    "impressions": 347913,
+    "cpm": 10442
+  },
+  {
+    "campaign_id": 1,
+    "campaign_name": "Core - FB",
+    "adset_id": 1,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": null,
+    "ad_name": null,
+    "cost": 1265,
+    "impressions": 128182,
+    "cpm": 9870
+  },
+  {
+    "campaign_id": 1,
+    "campaign_name": "Core - FB",
+    "adset_id": 1,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": 1,
+    "ad_name": "VPA - iTunes/Apple Music",
+    "cost": 777,
+    "impressions": 70336,
+    "cpm": 11053
+  },
+  {
+    "campaign_id": 1,
+    "campaign_name": "Core - FB",
+    "adset_id": 1,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": 2,
+    "ad_name": "PPA - iTunes/Apple Music",
+    "cost": 487,
+    "impressions": 57846,
+    "cpm": 8432
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "Kiefer Sutherland - Down in a hole - NonCore - FB",
+    "adset_id": null,
+    "adset_name": null,
+    "ad_id": null,
+    "ad_name": null,
+    "cost": 3632,
+    "impressions": 347913,
+    "cpm": 10442
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "NonCore - FB",
+    "adset_id": 1,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": null,
+    "ad_name": null,
+    "cost": 1265,
+    "impressions": 128182,
+    "cpm": 9870
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "NonCore - FB",
+    "adset_id": 1,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": 1,
+    "ad_name": "VPA - iTunes/Apple Music",
+    "cost": 777,
+    "impressions": 70336,
+    "cpm": 11053
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "NonCore - FB",
+    "adset_id": 1,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": 2,
+    "ad_name": "PPA - iTunes/Apple Music",
+    "cost": 487,
+    "impressions": 57846,
+    "cpm": 8432
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "NonCore - FB",
+    "adset_id": 2,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": null,
+    "ad_name": null,
+    "cost": 1265,
+    "impressions": 128182,
+    "cpm": 9870
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "NonCore - FB",
+    "adset_id": 2,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": 1,
+    "ad_name": "Ad1Name",
+    "cost": 1265,
+    "impressions": 128182,
+    "cpm": 9870
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "NonCore - FB",
+    "adset_id": 2,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": 2,
+    "ad_name": "Ad2Name",
+    "cost": 1265,
+    "impressions": 128182,
+    "cpm": 9870
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "NonCore - FB",
+    "adset_id": 2,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": 3,
+    "ad_name": "Ad3Name",
+    "cost": 1265,
+    "impressions": 128182,
+    "cpm": 9870
+  },
+  {
+    "campaign_id": 2,
+    "campaign_name": "NonCore - FB",
+    "adset_id": 2,
+    "adset_name": "Interested - DSK + iOS",
+    "ad_id": 3,
+    "d_id": 1,
+    "d_name": "dName",
+    "ad_name": "Ad3Name",
+    "cost": 1265,
+    "impressions": 128182,
+    "cpm": 9870
+  }
+]
